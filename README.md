@@ -1,4 +1,4 @@
-Meu nome é João Fernando
+João Fernando
 
 ## Olá galera 👋
 Estou no ultimo ano de Biomedicina, sim, você não leu errado, mas gosto de novos aprendizados
