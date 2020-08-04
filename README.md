@@ -12,4 +12,3 @@ qual o caminho eu devo seguir.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JoaoFernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoxfernando/)](https://www.linkedin.com/in/joaoxfernando/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-joaofernando1988@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaofernando1988@gmail.com)](mailto:joaofernando1988@gmail.com)
-[![Hotmail_Badge](https://img.shields.io/badge/-joaoxfernando@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaoxfernando@outlook.com)](mailto:joaoxfernando@outlook.com)
