@@ -1,3 +1,4 @@
+<img width="auto" src="https://github.com/joaoxfernando/joaoxfernando/blob/master/banner.png">
 João Fernando
 
 ## Olá galera 👋
