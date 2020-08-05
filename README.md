@@ -1,10 +1,11 @@
 <img width="auto" src="https://github.com/joaoxfernando/joaoxfernando/blob/master/banner.png">
 João Fernando
 
-## Olá galera 👋
-Estou no ultimo ano de Biomedicina, sim, você não leu errado, mas gosto de novos aprendizados
-e resolvi me aventurar no mundo da programação como um hobby e estou adorando, o tempo vai dizer
-qual o caminho eu devo seguir.
+## Fala galera! 👋
+Me chamo João Fernando, estou no ultimo ano de Biomedicina, isso mesmo, você não leu errado!
+Apesar de eu fazer curso de biológicas, eu tenho um certo gosto por exatas e principalmente tecnologia, e
+claro, gosto sempre de me desafiar a aprender algo novo e e resolvi me aventurar no mundo da programação
+como um hobby e estou adorando, o tempo vai dizer qual o caminho eu devo seguir.
 
  🔬  &nbsp; Atualmente eu trabalho no **Grupo Fleury**
  <br/> :purple_heart: &nbsp; Amo front-end e aos poucos busco compreender melhor o backend
