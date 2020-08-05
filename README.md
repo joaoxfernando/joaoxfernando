@@ -11,6 +11,7 @@ como um hobby e estou adorando, o tempo vai dizer qual o caminho eu devo seguir.
  <br/> :purple_heart: &nbsp; Amo front-end e aos poucos busco compreender melhor o backend
  <br/> :computer: &nbsp; Minha stack: HTML + CSS + JS e buscando me aprimorar para utilizar ReactJS e Angular
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, gadgets, animes e esportes.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JoaoFernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoxfernando/)](https://www.linkedin.com/in/joaoxfernando/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Joao Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoxfernando/)](https://www.linkedin.com/in/joaoxfernando/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-joaofernando1988@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaofernando1988@gmail.com)](mailto:joaofernando1988@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-joaofernando1988@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaofernando1988@gmail.com)](mailto:joaofernando1988@gmail.com) | [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:joaoxfernando@outlook.com)](mailto:joaoxfernando@outlook.com)<br>[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584999122284&text=Olá%20João%20Fernando,%20vi%20seu%20perfil%20do%20GitHub!)](https://api.whatsapp.com/send?phone=5511979560214&text=Olá%20João%20Fernando,%20vi%20seu%20perfil%20do%20GitHub!)
+
