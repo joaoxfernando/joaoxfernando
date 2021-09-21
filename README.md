@@ -5,8 +5,10 @@ Me chamo João Fernando, sou formado em Biomedicina, isso mesmo, você não leu 
 Apesar de eu ter me formado na área da saúde, sempre fui apaixonado por tecnologia e 
 vejo agora a oportunidade de começar a estudar programação (em especial Python), para
 quem sabe buscar oportunidades na área de bioinformática, que vem ganhando bastante espaço.
+
 Comecei o curso de Análise e Desenvolvimento de Sistemas para adquirir conhecimentos técnicos para auxiliar 
 no seguimento dos estudos para seguir adiante com meu objetivo.
+
 
 🔬  &nbsp; Atualmente eu trabalho no **Grupo Fleury**
 <br/> :purple_heart: &nbsp; Sei um pouco de HTML, CSS e JS (o básicão para fazer um site rodar com funcionalidades simples).
