@@ -5,11 +5,6 @@ Me chamo João Fernando, sou formado em Biomedicina (sim, isso mesmo) e atualmen
 Apesar de inicialmente eu ter me formado na área da saúde, sempre fui apaixonado por tecnologia e conforme fui conhecendo as diversas áreas que a tecnologia abrange, acabei curtindo a parte de análise de dados, atualmente já trabalho bastante com o Excel, mas, estou buscando novos conhecimentos e estudando bastante sobre Python, SQL e Power BI.
 
 Gosto bastante de fazer a modelagem de dados seja no trabalho com o Excel/Power Query, como também em projetos pessoais utilizando o Power BI + Power Query e eventualmente o Python para realizar algumas transformações nos datasets.
-<<<<<<< HEAD
-
-Gosto bastante de fazer análises de dados do mercado financeiro, visualizando dados históricos sobre ativos e comparar rendimentos de ativos variados em função do tempo, criar relatórios e Dashboards no excel e Power BI (mais abaixo você pode encontrar meu portfólio)
-=======
->>>>>>> 0ffab46118c07e87e86a9f3c07ea18a0c809f414
 
 Gosto bastante de fazer análises de dados do mercado financeiro, visualizando dados históricos sobre ativos e comparar rendimentos de ativos variados em função do tempo, criar relatórios e Dashboards no excel e Power BI (mais abaixo você pode encontrar meu portfólio)
 
@@ -30,11 +25,14 @@ Gosto bastante de fazer análises de dados do mercado financeiro, visualizando d
 ### Dados fictícios
 [Dashboard de Setor Financeiro](https://app.powerbi.com/view?r=eyJrIjoiYWI0OTEyNzctZmE3ZC00YjQ4LWEzNzgtMGY2M2U5Y2Y5YzczIiwidCI6IjVjYzNlODFhLTVjNGUtNGFkOC1iMzMzLTc2ZDQxMTdmNGFlNSJ9)
 
-[Dashboard de Logística (Dados fictícios)](https://app.powerbi.com/view?r=eyJrIjoiNTM3OGMyMGYtOWQxMC00ZjliLTlkOTgtZDZlNjQxZTdjZDU1IiwidCI6IjVjYzNlODFhLTVjNGUtNGFkOC1iMzMzLTc2ZDQxMTdmNGFlNSJ9)
+[Dashboard de Logística](https://app.powerbi.com/view?r=eyJrIjoiNTM3OGMyMGYtOWQxMC00ZjliLTlkOTgtZDZlNjQxZTdjZDU1IiwidCI6IjVjYzNlODFhLTVjNGUtNGFkOC1iMzMzLTc2ZDQxMTdmNGFlNSJ9)
 
-[Dashboard de Recursos Humanos (Dados fictícios)](https://app.powerbi.com/view?r=eyJrIjoiMDhhZjA4N2YtMGNlZS00NjAwLThlZGUtZGI0MTJhMWNlODkxIiwidCI6IjVjYzNlODFhLTVjNGUtNGFkOC1iMzMzLTc2ZDQxMTdmNGFlNSJ9)
+[Dashboard de Recursos Humanos](https://app.powerbi.com/view?r=eyJrIjoiMDhhZjA4N2YtMGNlZS00NjAwLThlZGUtZGI0MTJhMWNlODkxIiwidCI6IjVjYzNlODFhLTVjNGUtNGFkOC1iMzMzLTc2ZDQxMTdmNGFlNSJ9)
 
-<!-- [Dashboard de Análise de Vendas (Dados fictícios)]()
+[Dashboard de Análise de Vendas](https://app.powerbi.com/view?r=eyJrIjoiZDc2NjM5ODctN2NhOC00OTBmLWJkNDctYjljMmY4YWE4MjdmIiwidCI6IjVjYzNlODFhLTVjNGUtNGFkOC1iMzMzLTc2ZDQxMTdmNGFlNSJ9)
 
-[Dashboard de Análise de Vendas E-commerce (Dados fictícios)]() -->
+[Dashboard de Análise de Vendas E-commerce](https://app.powerbi.com/view?r=eyJrIjoiYjQ2YjljMTgtMWU3NS00NTNhLTg0ZTUtMDVhNDlkYjEwMzMxIiwidCI6IjVjYzNlODFhLTVjNGUtNGFkOC1iMzMzLTc2ZDQxMTdmNGFlNSJ9)
 
+[Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiZDc2NjM5ODctN2NhOC00OTBmLWJkNDctYjljMmY4YWE4MjdmIiwidCI6IjVjYzNlODFhLTVjNGUtNGFkOC1iMzMzLTc2ZDQxMTdmNGFlNSJ9)
+
+[Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiY2MxYjNiNGEtZWI0My00M2M2LTlkMDEtZjM1ODgwYjE0ZWEwIiwidCI6IjVjYzNlODFhLTVjNGUtNGFkOC1iMzMzLTc2ZDQxMTdmNGFlNSJ9)
