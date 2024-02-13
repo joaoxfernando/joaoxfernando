@@ -18,7 +18,7 @@ Gosto bastante de fazer análises de dados do mercado financeiro, visualizando d
 ## Portfólio
 
 ### Dados reais
-[Dashboard de Balanço Comercial - (Dados de 2018 a 2023 e atualizado constantemente)](https://app.powerbi.com/view?r=eyJrIjoiNWNlNTJlNTItYjBmMy00NGUwLWIxNWItMjc0MTdhYzUzZjg0IiwidCI6IjVjYzNlODFhLTVjNGUtNGFkOC1iMzMzLTc2ZDQxMTdmNGFlNSJ9)
+[Dashboard de Balanço Comercial - (Dados de 2018 a 2024 e atualizado constantemente)](https://app.powerbi.com/view?r=eyJrIjoiNWNlNTJlNTItYjBmMy00NGUwLWIxNWItMjc0MTdhYzUzZjg0IiwidCI6IjVjYzNlODFhLTVjNGUtNGFkOC1iMzMzLTc2ZDQxMTdmNGFlNSJ9)
 
 ****
 
