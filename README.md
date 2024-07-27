@@ -37,4 +37,5 @@ Gosto bastante de fazer análises de dados do mercado financeiro, visualizando d
 
 [Dashboard de Vendas](https://app.powerbi.com/view?r=eyJrIjoiY2MxYjNiNGEtZWI0My00M2M2LTlkMDEtZjM1ODgwYjE0ZWEwIiwidCI6IjVjYzNlODFhLTVjNGUtNGFkOC1iMzMzLTc2ZDQxMTdmNGFlNSJ9)
 
-![snake game](https://github.com/joaoxfernando/joaoxfernando/blob/output/github-contribution-grid-snake2.svg)
+
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/joaoxfernando/joaoxfernando/output/github-contribution-grid-snake.svg" />
