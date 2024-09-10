@@ -1,12 +1,12 @@
 # João Fernando
 
 ## Fala galera! 👋
-Me chamo João Fernando, sou formado em Biomedicina (sim, isso mesmo) e atualmente estou cursando o 3º semestre de Estatística.
-Apesar de inicialmente eu ter me formado na área da saúde, sempre fui apaixonado por tecnologia e conforme fui conhecendo as diversas áreas que a tecnologia abrange, acabei curtindo a parte de análise de dados, atualmente já trabalho bastante com o Excel, mas, estou buscando novos conhecimentos e estudando bastante sobre Python, SQL e Power BI.
+Me chamo João Fernando, sou formado em Biomedicina (sim, isso mesmo).
+Apesar de inicialmente eu ter me formado na área da saúde, sempre fui apaixonado por tecnologia e conforme fui conhecendo as diversas áreas que a tecnologia abrange, acabei conhecendo sobre análise de dados, atualmente já trabalho bastante com o Excel, mas, estou buscando novos conhecimentos e buscando sempre estudar sobre Python, SQL e Power BI.
 
 Gosto bastante de fazer a modelagem de dados seja no trabalho com o Excel/Power Query, como também em projetos pessoais utilizando o Power BI + Power Query e eventualmente o Python para realizar algumas transformações nos datasets.
 
-Gosto bastante de fazer análises de dados do mercado financeiro, visualizando dados históricos sobre ativos e comparar rendimentos de ativos variados em função do tempo, criar relatórios e Dashboards no excel e Power BI (mais abaixo você pode encontrar meu portfólio)
+Também tento me aventurar em trabalhar com dados do mercado financeiro, visualizando dados históricos sobre ativos, comparar rendimentos dos mais variados ativos em função do tempo, criar relatórios e Dashboards no excel e Power BI (mais abaixo você pode encontrar meu portfólio)
 
 🔬&nbsp; Atualmente eu trabalho no **Grupo Fleury**
 <br/> :purple_heart: &nbsp; Sei um pouco de HTML, CSS e JS (o básicão para fazer um site rodar com funcionalidades simples).
