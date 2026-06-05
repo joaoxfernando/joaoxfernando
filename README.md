@@ -3,7 +3,7 @@
 ## Fala galera! 👋
 Me chamo João Fernando, sou formado em Biomedicina (sim, isso mesmo) e trabalho com projetos de análise de dados.
 
-Apesar de inicialmente eu ter me formado na área da saúde, sempre fui apaixonado por tecnologia e conforme fui conhecendo as diversas áreas que a tecnologia abrange, acabei conhecendo sobre análise de dados, atualmente já trabalho bastante com o Excel, mas, estou buscando novos conhecimentos e buscando sempre estudar sobre Python, SQL e Power BI.
+Apesar de inicialmente eu ter me formado na área da saúde, sempre fui apaixonado por tecnologia e conforme fui conhecendo as diversas áreas que a tecnologia abrange, acabei conhecendo sobre análise de dados, atualmente já trabalho bastante com o Excel, mas, estou buscando novos conhecimentos e buscando sempre estudar sobre Python, SQL, Power BI e outras ferramentas de análise de dados/BI.
 
 Gosto bastante de fazer a modelagem de dados seja no trabalho com o Excel/Power Query, como também em projetos pessoais utilizando o Power BI + Power Query e eventualmente o Python para realizar algumas transformações nos datasets.
 
